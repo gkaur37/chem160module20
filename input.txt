@@ -1,0 +1,9 @@
+IBM
+Apple
+Cray
+HP
+Dell
+Univac
+Sun
+Compaq
+Lenovo
